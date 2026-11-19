@@ -1,0 +1,13 @@
+{
+    "operating_system_and_behavior_class": "iOS, Class 4",
+    "total_records_in_dataset": 700,
+    "records_matching_operating_system": 146,
+    "records_in_target_behavior_class": 29,
+    "average_battery_drain_mAh_per_day": 2123.21,
+    "average_data_usage_MB_per_day": 1221.45,
+    "count_verification": {
+        "selected_from_csv": 29,
+        "reported_count": 29,
+        "match": true
+    }
+}

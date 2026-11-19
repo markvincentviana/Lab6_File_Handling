@@ -1,0 +1,28 @@
+CYBERSECURITY INCIDENT REPORT
+========================================
+Target Year: 2018
+Total Records in Dataset: [not counted]
+Incidents in Target Year: 310
+
+Incident Count per Attack Type:
+  - Man-in-the-Middle: 36
+  - SQL Injection: 57
+  - Phishing: 52
+  - DDoS: 60
+  - Malware: 56
+  - Ransomware: 49
+
+Total Financial Loss: $14720.48 Million
+Average Financial Loss: $47.49 Million
+
+Five Costliest Incidents:
+  1. Phishing — $99.78M
+  2. SQL Injection — $99.49M
+  3. Ransomware — $99.41M
+  4. Phishing — $99.14M
+  5. Malware — $99.09M
+
+Filtered CSV File: Viana_cyber_incidents.csv
+JSON Summary File: Viana_cyber_top5.json
+Backup Verification: True
+Report File: Viana_cyber_report.txt

@@ -1,0 +1,62 @@
+[
+    {
+        "Country": "France",
+        "Year": "2018",
+        "Attack Type": "Phishing",
+        "Target Industry": "Retail",
+        "Financial Loss (in Million $)": "99.78",
+        "Number of Affected Users": "860459",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "11"
+    },
+    {
+        "Country": "USA",
+        "Year": "2018",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "99.49",
+        "Number of Affected Users": "755576",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "23"
+    },
+    {
+        "Country": "UK",
+        "Year": "2018",
+        "Attack Type": "Ransomware",
+        "Target Industry": "Telecommunications",
+        "Financial Loss (in Million $)": "99.41",
+        "Number of Affected Users": "355256",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Unpatched Software",
+        "Defense Mechanism Used": "Firewall",
+        "Incident Resolution Time (in Hours)": "51"
+    },
+    {
+        "Country": "Brazil",
+        "Year": "2018",
+        "Attack Type": "Phishing",
+        "Target Industry": "Healthcare",
+        "Financial Loss (in Million $)": "99.14",
+        "Number of Affected Users": "456432",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "66"
+    },
+    {
+        "Country": "India",
+        "Year": "2018",
+        "Attack Type": "Malware",
+        "Target Industry": "Education",
+        "Financial Loss (in Million $)": "99.09",
+        "Number of Affected Users": "395264",
+        "Attack Source": "Unknown",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Antivirus",
+        "Incident Resolution Time (in Hours)": "5"
+    }
+]
