@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Viana
+Student ID: TUPM-26-1953
+Seed Digit: 3
+ID Sum: 26
+Verification Value: 133
+Dataset Sample Size: 76
+Valid Records: 0
+Average Global Active Power: 0.000
+JSON File: Viana_TUPM-26-1953_record.json
+Backup File: Viana_TUPM-26-1953_record.csv

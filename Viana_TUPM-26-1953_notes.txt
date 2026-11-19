@@ -1,0 +1,5 @@
+Student: Viana
+Student ID: TUPM-26-1953
+Seed digit: 3
+ID sum: 26
+Verification value: 133
